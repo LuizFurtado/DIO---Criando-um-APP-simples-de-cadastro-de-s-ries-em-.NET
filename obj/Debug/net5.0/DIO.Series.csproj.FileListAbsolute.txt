@@ -1,0 +1,16 @@
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\Learning\Digital Innovation One\03-Everis New Talents - .Net\Criando um App de cadastro de séries em .Net\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
